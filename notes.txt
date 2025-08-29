@@ -1,4 +1,5 @@
 git init für den Start // for initializing repository !!
+
 git add <file>
 git status
 git commit -m "your commit message"
